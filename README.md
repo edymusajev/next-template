@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Run the following command to create a new project with this starter:
 
 ```bash
-npx-create-react-app [project name] -e https://github.com/edehlol/next-template
+npx-create-next-app [project name] -e https://github.com/edehlol/next-template
 ```
 
 To start the development server:
