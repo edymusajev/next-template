@@ -2,10 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Run the following command to create a new project with this starter:
+Clone this project and install the dependencies
 
 ```bash
-npx-create-next-app [project name] -e https://github.com/edehlol/next-template
+npm init
 ```
 
 To start the development server:
